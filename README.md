@@ -1,6 +1,7 @@
 # HrrRbDomainname
 
 [![Build Status](https://travis-ci.com/hirura/hrr_rb_domainname.svg?branch=master)](https://travis-ci.com/hirura/hrr_rb_domainname)
+[![Gem Version](https://badge.fury.io/rb/hrr_rb_domainname.svg)](https://badge.fury.io/rb/hrr_rb_domainname)
 
 hrr_rb_domainname is a wrapper around getdomainname and setdomainname for CRuby.
 
