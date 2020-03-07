@@ -5,6 +5,17 @@
 
 hrr_rb_domainname is a wrapper around getdomainname and setdomainname for CRuby.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Getting domainname](#getting-domainname)
+  - [Setting domainname](#setting-domainname)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
+- [Code of Conduct](#code-of-conduct)
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -42,7 +53,7 @@ HrrRbDomainname.get           # => "currentdomainname"
 HrrRbDomainname.getdomainname # => "currentdomainname"
 ```
 
-#### Setting domainname
+### Setting domainname
 
 The .set and .setdomainname methods set domainname and return the set domainname.
 
